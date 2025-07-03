@@ -38,6 +38,3 @@ This is an **educational project** demonstrating how design patterns solve commo
 
 Not production-ready - created for pattern practice and interview preparation.
 
-
-## Author
-[Emre Tokluk] - [emretokluk@gmail.com]" > README.md
