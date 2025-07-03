@@ -1,4 +1,3 @@
-echo "# E-Commerce Order Processing System
 
 ## Overview
 A Java backend system demonstrating essential design patterns for order processing:
@@ -39,20 +38,6 @@ This is an **educational project** demonstrating how design patterns solve commo
 
 Not production-ready - created for pattern practice and interview preparation.
 
-## Structure
-\`\`\`
-src/main/java/
-├── config/               # Singleton implementation
-├── orders/              # Factory pattern
-│   ├── factory/
-│   └── model/
-├── payment/             # Strategy pattern
-│   ├── strategy/
-│   └── model/
-├── notification/        # Observer pattern
-│   └── observer/
-└── service/             # Core processing
-\`\`\`
 
 ## Author
 [Emre Tokluk] - [emretokluk@gmail.com]" > README.md
